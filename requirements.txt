@@ -1,0 +1,18 @@
+# Core web app
+flask
+python-dotenv
+
+# Google Gemini API
+google-generativeai
+
+# Markdown to HTML converter
+markdown
+
+# ---- Optional LangChain stack ----
+# langchain
+# langchain-community
+# langchain-cohere
+# langchain-chroma
+# langchain-google-genai
+# chromadb
+# sentence-transformers
